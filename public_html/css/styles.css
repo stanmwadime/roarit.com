@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 20px;
     padding:0;
 }
@@ -17,7 +17,7 @@ body{
 }
 header h1{
     color:#ffffff;
-    font-size:222px;
+    font-size:22px;
     padding: 15px 0 10px 10px;
     border-bottom: 1px solid #ffffff;
 }
@@ -57,4 +57,4 @@ header h1{
     #input input [type='text']{
         width:98;
     }
-} */
+}
